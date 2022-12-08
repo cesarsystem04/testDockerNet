@@ -1,0 +1,13 @@
+D:\DirLink\Documentos\GitHub\testDockerNet\App\bin\Debug\netcoreapp3.1\DotNet.Docker.exe
+D:\DirLink\Documentos\GitHub\testDockerNet\App\bin\Debug\netcoreapp3.1\DotNet.Docker.deps.json
+D:\DirLink\Documentos\GitHub\testDockerNet\App\bin\Debug\netcoreapp3.1\DotNet.Docker.runtimeconfig.json
+D:\DirLink\Documentos\GitHub\testDockerNet\App\bin\Debug\netcoreapp3.1\DotNet.Docker.runtimeconfig.dev.json
+D:\DirLink\Documentos\GitHub\testDockerNet\App\bin\Debug\netcoreapp3.1\DotNet.Docker.dll
+D:\DirLink\Documentos\GitHub\testDockerNet\App\bin\Debug\netcoreapp3.1\DotNet.Docker.pdb
+D:\DirLink\Documentos\GitHub\testDockerNet\App\obj\Debug\netcoreapp3.1\DotNet.Docker.csprojAssemblyReference.cache
+D:\DirLink\Documentos\GitHub\testDockerNet\App\obj\Debug\netcoreapp3.1\DotNet.Docker.AssemblyInfoInputs.cache
+D:\DirLink\Documentos\GitHub\testDockerNet\App\obj\Debug\netcoreapp3.1\DotNet.Docker.AssemblyInfo.cs
+D:\DirLink\Documentos\GitHub\testDockerNet\App\obj\Debug\netcoreapp3.1\DotNet.Docker.csproj.CoreCompileInputs.cache
+D:\DirLink\Documentos\GitHub\testDockerNet\App\obj\Debug\netcoreapp3.1\DotNet.Docker.dll
+D:\DirLink\Documentos\GitHub\testDockerNet\App\obj\Debug\netcoreapp3.1\DotNet.Docker.pdb
+D:\DirLink\Documentos\GitHub\testDockerNet\App\obj\Debug\netcoreapp3.1\DotNet.Docker.genruntimeconfig.cache
